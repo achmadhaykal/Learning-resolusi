@@ -3,4 +3,4 @@ LEARNING RESOLUSI
 - belajar Linux Centos OS
 - Belajar Networking
 - Belajar framework
-- Belajar codeigneter
+- Belajar laravel
